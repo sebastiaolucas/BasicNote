@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Basic Note</string>
+    <string name="action_save">Save</string>
+    <string name="title_activity_new_note">New Note</string>
+    <string name="action_copy">copy all to clip board</string>
+    <string name="message_copy">Copied</string>
+    <string name="button_yes">YES</string>
+    <string name="button_no">NO</string>
+    <string name="title_remove">"Remove note"</string>
+    <string name="text_remove">Are you sure?</string>
+    <string name="title_edit">Edit:</string>
+    <string name="message_empty">Field is empty!</string>
+    <string name="text_title">Title</string>
+    <string name="text_note">Note</string>
+</resources>

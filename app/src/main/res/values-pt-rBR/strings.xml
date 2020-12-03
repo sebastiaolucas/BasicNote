@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Basic Note</string>
+    <string name="action_save">Salve</string>
+    <string name="title_activity_new_note">Nova nota</string>
+    <string name="action_copy">copie tudo para o clipboard</string>
+    <string name="message_copy">Copiado</string>
+    <string name="button_yes">SIM</string>
+    <string name="button_no">NÃO</string>
+    <string name="title_remove">"Remover nota"</string>
+    <string name="text_remove">Você tem certeza?</string>
+    <string name="title_edit">Editar:</string>
+    <string name="message_empty">O campo está vazio!</string>
+    <string name="text_title">Título</string>
+    <string name="text_note">Nota</string>
+</resources>
